@@ -109,25 +109,6 @@ Final polished answer delivered
    - completeness
 5. **Final response** is returned
 
----
-
-## Project Structure
-
-```text
-Multi-Agent-Customer-Support-Automation/
-├── agents/
-├── connectors/
-├── orchestrator.py
-├── run_pipeline.py
-├── config/
-├── outputs/
-└── README.md
-```
-
-> Note: Adjust the structure above to match your exact repository files if needed.
-
----
-
 ## Getting Started
 
 ### Prerequisites
